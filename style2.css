@@ -1,0 +1,46 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+
+h1{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 60px;
+	font-weight: bold;
+}
+
+#banner{
+  text-align: center;
+  background-image: url("https://unsplash.it/1300/600?random");
+  background-size: cover;
+  padding: 150px;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+}
+
+#footer{
+  padding: 30px;
+  background-color: rgb(30, 30, 30);
+  color: lightgrey;
+}
+
+#footer a {
+  color: lightgrey;
+  font-size: 15px;
+}
+#footer a:hover {
+  color: white;
+}
+
+.image{
+	height: 100px;
+	width: auto;
+}
+
+.card1{
+	text-align: center;
+	padding: 40px;
+}
+
+.bouton{
+	margin: 25px;
+}
